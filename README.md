@@ -2,6 +2,7 @@
 CRUD Test Ionic 4 using Angular
 
 ****NOTE PLS READ****
-after cloning this file please kindly open terminal and enter this local project, type $npm-install
+after cloning this file please kindly open terminal and enter this local project, type ****$npm install****
 
-cheerio
+bundle with Ubuntu 16.04
+cheerio!!!
